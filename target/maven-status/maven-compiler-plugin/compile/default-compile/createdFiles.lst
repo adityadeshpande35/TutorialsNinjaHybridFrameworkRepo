@@ -1,0 +1,10 @@
+com\tutorialsninja\qa\pages\RegisterPage.class
+com\tutorialsninja\qa\utils\ExtentReporter.class
+com\tutorialsninja\qa\pages\AccountSuccessPage.class
+com\tutorialsninja\qa\utils\Utilities$1.class
+com\tutorialsninja\qa\pages\Accountpage.class
+com\tutorialsninja\qa\Listeners\MyListeners.class
+com\tutorialsninja\qa\pages\Searchpage.class
+com\tutorialsninja\qa\pages\Homepage.class
+com\tutorialsninja\qa\pages\Loginpage.class
+com\tutorialsninja\qa\utils\Utilities.class
