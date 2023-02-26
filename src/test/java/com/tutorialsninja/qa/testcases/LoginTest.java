@@ -14,7 +14,7 @@ import com.tutorialsninja.qa.pages.Homepage;
 import com.tutorialsninja.qa.pages.Loginpage;
 import com.tutorialsninja.qa.utils.Utilities;
 
-//modified Login-Added more Information
+//modified Login-modification is done
 
 public class LoginTest extends Base{
 	
